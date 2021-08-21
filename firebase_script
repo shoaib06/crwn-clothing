@@ -1,0 +1,13 @@
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAMpwdqCaoF_mXmvYDWEgDJF8PFU6WlXkI",
+    authDomain: "crwn-db-e265d.firebaseapp.com",
+    projectId: "crwn-db-e265d",
+    storageBucket: "crwn-db-e265d.appspot.com",
+    messagingSenderId: "7817815248",
+    appId: "1:7817815248:web:3061371854d24c980faad5"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
